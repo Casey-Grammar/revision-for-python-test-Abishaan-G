@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-import task1
+import Task1 as task1
 
 class TestTask1(unittest.TestCase):
 
